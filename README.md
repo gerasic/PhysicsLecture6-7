@@ -42,4 +42,4 @@
      - **Изменение энергии** в зависимости от заданных параметров.
 
 ## Видео
-[Смотреть видео](https://github.com/user-attachments/assets/a059903e-dd7b-4ebf-9132-45279bf4ead8)
+https://github.com/user-attachments/assets/bd0795ce-ef75-4077-ae31-13aa5e13f7aa
